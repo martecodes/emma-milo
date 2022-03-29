@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    width: 50%;
+    height: 80%;
+    border-radius: 2%;
+}
